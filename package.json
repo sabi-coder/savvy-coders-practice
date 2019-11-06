@@ -1,0 +1,25 @@
+{
+  "name": "NicholeHerrington",
+  "version": "1.0.0",
+  "description": "_This is in italics._",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabi-coder/savvy-coders-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sabi-coder/savvy-coders-practice/issues"
+  },
+  "homepage": "https://github.com/sabi-coder/savvy-coders-practice#readme",
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-prettier": "^6.5.0",
+    "eslint-plugin-prettier": "^3.1.1"
+  }
+}
